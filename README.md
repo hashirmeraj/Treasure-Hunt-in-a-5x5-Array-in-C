@@ -1,0 +1,2 @@
+# Treasure Hunt in a 5x5 Array in C Languae 
+ This program searches for a treasure hidden in a 5x5 array using clues provided within the array cells. Each cell contains an integer where the ten's digit indicates the row and the unit's digit indicates the column of the next clue. The search begins from the top-left corner, and the program outputs the sequence of cells visited until it locates the treasure, which is found when a cell's value matches its coordinates.
